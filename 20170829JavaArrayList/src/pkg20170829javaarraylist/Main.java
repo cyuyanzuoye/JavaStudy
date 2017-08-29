@@ -2,6 +2,18 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
+  set：
+    HashSet ； LinkedHashSet TreeSet;
+   List:
+   ArrayList Vector ;linkeList;
+  quenue:just for store data;
+  ProrityQueue;
+Map:
+  hashtable ;
+  linkedHashMap;
+  HashMap;
+  Treemap;
+
  */
 package pkg20170829javaarraylist;
 
